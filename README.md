@@ -14,3 +14,12 @@
 - Crea un nuevo repositorio en GitHub.
 
 ![repository github](img/repository.png)
+
+- Copia el URL del repositorio que acabas de crear en GitHub
+- Conecta tu repositorio local con el repositorio en GitHub.
+```sh
+    git remote add origin git@github.com:gabriel-luque-apz/lemoncode-laboratorio_git.git
+```
+- Verifica que la conexión se haya establecido correctamente.
+
+![url github and connect](img/remotev.png)
