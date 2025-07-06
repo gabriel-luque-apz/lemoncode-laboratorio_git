@@ -23,3 +23,15 @@
 - Verifica que la conexión se haya establecido correctamente.
 
 ![url github remote v](img/remotev.png)
+
+## Hacer un commir y un push
+
+- Crea un archivo en la carpeta del repositorio.
+- Añade el archivo al staging.
+- Crea un commit con un mensaje descriptivo.
+
+![create a file README](img/gitpush.png)
+
+- Sube los cambios al repositorio en GitHub.
+
+![git push readme](img/gitpushU.png)
