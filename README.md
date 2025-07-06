@@ -51,3 +51,12 @@
 - Sube los cambios a Github.
 
 ![commit and new branch ](img/gitbranchupdate.png)
+
+## Hacer un merge
+
+- Vuelve a la rama "main".
+- Haz un merge de la rama "development" a la rama "main".
+- Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
+- Haz un push de los cambios al repositorio en GitHub.
+
+![merge development to main](img/merge.png)
