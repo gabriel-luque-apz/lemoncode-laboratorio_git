@@ -24,7 +24,7 @@
 
 ![url github remote v](img/remotev.png)
 
-## Hacer un commir y un push
+## Hacer un commit y un push
 
 - Crea un archivo en la carpeta del repositorio.
 - Añade el archivo al staging.
@@ -35,3 +35,19 @@
 - Sube los cambios al repositorio en GitHub.
 
 ![git push readme](img/gitpushU.png)
+
+## Crear una rama
+
+- Crea una rama nueva llamada "development".
+- Cambia a la nueva rama.
+
+![create a new branch](img/branchDevelopment.png)
+
+- Realiza algunos cambios en el archivo que creaste.
+
+![changes in readme file](img/catNano.png)
+
+- Añade y haz un commit con los cambios en la rama "development".
+- Sube los cambios a Github.
+
+![commit and new branch ](img/gitbranchupdate.png)
