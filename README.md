@@ -22,4 +22,4 @@
 ```
 - Verifica que la conexión se haya establecido correctamente.
 
-![url github and connect](img/remotev.png)
+![url github remote v](img/remotev.png)
